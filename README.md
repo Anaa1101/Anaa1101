@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Anaghaa Patil
+# Hi there!  I'm Anaghaa Patil
 
 <div align="center">
-  <h3>🚀 Passionate AI developer from India 🇮🇳</h3>
+  <h3> Passionate AI developer from India </h3>
   <p><em>Crafting beautiful, responsive web experiences with clean code</em></p>
 </div>
 
@@ -9,10 +9,10 @@
 
 ## 🌟 About Me
 
-- 🌱 Currently diving deep into **AI/ML** and exploring its integration with web development
-- 💻 Passionate about creating intuitive user interfaces and seamless user experiences
-- 🎯 Always excited to learn new technologies and solve challenging problems
-- 💬 Love discussing **AI, Web Development, and emerging tech trends**
+-  Currently diving deep into **AI/ML** and exploring its integration with web development
+-  Passionate about creating intuitive user interfaces and seamless user experiences
+- Always excited to learn new technologies and solve challenging problems
+-  Love discussing **AI, Web Development, and emerging tech trends**
 - ⚡ Fun fact: *"Funny enough to survive debugging sessions and still smile!"*
 
 ---
@@ -79,10 +79,10 @@
 
 ## 🎯 Current Goals
 
-- 🤖 Mastering Machine Learning algorithms and their practical applications
-- 🌐 Building full-stack applications with modern frameworks
-- 🔍 Contributing to open-source projects
-- 📝 Sharing knowledge through technical blogs and tutorials
+-  Mastering Machine Learning algorithms and their practical applications
+-  Building full-stack applications with modern frameworks
+-  Contributing to open-source projects
+- Sharing knowledge through technical blogs and tutorials
 
 ---
 
